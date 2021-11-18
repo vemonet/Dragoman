@@ -1088,14 +1088,14 @@
 "oncological_history","previous_cancer_type","-1",
 "patient","gender","0","Male"
 "patient","gender","1","Female"
-"patient","patient_type","0",
+"patient","patient_type","0","Non_small_cell_lung_cancer"
 "patient","patient_type","1","Small_cell_lung_cancer"
 "patient","patient_type","2","Carcinoid_tumor"
 "patient","patient_type","3","Epithelial_thumic_tumor"
 "patient","patient_type","4","Mesothelyoma"
 "patient","patient_type","5","patient_type_others"
 "patient","patient_type","-1",
-"patient","race","0",
+"patient","race","0","Caucasian"
 "patient","race","1","Latin"
 "patient","race","2","Asian"
 "patient","race","3","African"
